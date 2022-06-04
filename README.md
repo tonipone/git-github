@@ -10,4 +10,5 @@
 > da terminale
    
    - Git -> git init (inizializzazione)
+   - git add (file)
    - git commit 
