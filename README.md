@@ -9,6 +9,7 @@
 
 > da terminale
    
-   - Git -> git init (inizializzazione)
-   - git add (file)
-   - git commit 
+   - Git -> git init (initialize)
+   - git add (add file project)
+   - git commit (git log e git status - view repository history)
+
