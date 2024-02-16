@@ -16,3 +16,6 @@
    - git branch
    - git push -u origin master
 
+### Aggiunta del 16/02/2024
+
+    - git commit -m "descrizione del commit"
