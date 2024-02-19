@@ -19,3 +19,6 @@
 ### Aggiunta del 16/02/2024
 
     - git commit -m "descrizione del commit"
+
+### Modifica del 19/02/2024
+	
